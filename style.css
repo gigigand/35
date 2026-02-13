@@ -1,6 +1,7 @@
 body{
     display: flex;
     justify-content: center;
+    padding-top: 100px;
 }
 .i{
     padding-bottom: 10px;
@@ -34,3 +35,4 @@ body{
     display: inline-block;
     border-radius: 5px;
 }
+
